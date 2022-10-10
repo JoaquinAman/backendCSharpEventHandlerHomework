@@ -1,0 +1,15 @@
+C:\Users\Joaquin Aman\source\repos\EventHandler\EventHandler\bin\Debug\net6.0\EventHandler.exe
+C:\Users\Joaquin Aman\source\repos\EventHandler\EventHandler\bin\Debug\net6.0\EventHandler.deps.json
+C:\Users\Joaquin Aman\source\repos\EventHandler\EventHandler\bin\Debug\net6.0\EventHandler.runtimeconfig.json
+C:\Users\Joaquin Aman\source\repos\EventHandler\EventHandler\bin\Debug\net6.0\EventHandler.dll
+C:\Users\Joaquin Aman\source\repos\EventHandler\EventHandler\bin\Debug\net6.0\EventHandler.pdb
+C:\Users\Joaquin Aman\source\repos\EventHandler\EventHandler\obj\Debug\net6.0\EventHandler.csproj.AssemblyReference.cache
+C:\Users\Joaquin Aman\source\repos\EventHandler\EventHandler\obj\Debug\net6.0\EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin Aman\source\repos\EventHandler\EventHandler\obj\Debug\net6.0\EventHandler.AssemblyInfoInputs.cache
+C:\Users\Joaquin Aman\source\repos\EventHandler\EventHandler\obj\Debug\net6.0\EventHandler.AssemblyInfo.cs
+C:\Users\Joaquin Aman\source\repos\EventHandler\EventHandler\obj\Debug\net6.0\EventHandler.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin Aman\source\repos\EventHandler\EventHandler\obj\Debug\net6.0\EventHandler.dll
+C:\Users\Joaquin Aman\source\repos\EventHandler\EventHandler\obj\Debug\net6.0\refint\EventHandler.dll
+C:\Users\Joaquin Aman\source\repos\EventHandler\EventHandler\obj\Debug\net6.0\EventHandler.pdb
+C:\Users\Joaquin Aman\source\repos\EventHandler\EventHandler\obj\Debug\net6.0\EventHandler.genruntimeconfig.cache
+C:\Users\Joaquin Aman\source\repos\EventHandler\EventHandler\obj\Debug\net6.0\ref\EventHandler.dll
